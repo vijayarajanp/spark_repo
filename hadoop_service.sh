@@ -1,5 +1,5 @@
 echo "\n SYNTAX: <service_name> [start|stop|restart|status]"
-
+echo "Service = hadoop, hive, yarn, jobhistory, mysql"
 #Declaration Part
 cmd_lst=("hadoop" "hive" "yarn" "jobhistory" "mysql")
 
